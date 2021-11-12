@@ -2,3 +2,5 @@
 2.Body
 3.Glass
 4.Engine
+5.Chair
+6.Rubber
