@@ -4,3 +4,4 @@
 4.Engine
 5.Chair
 6.Rubber
+7.Paint
